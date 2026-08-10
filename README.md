@@ -50,10 +50,10 @@ The standard experimental simulation produced the following results:
 
 ### Conversion Rates & Confidence Intervals
 
-* **Variant A (Control):** 973 conversions → **9.73% conversion rate**
+* **Variant A (Control):** 973 conversions → **9.86% conversion rate**
 
   * **95% Confidence Interval:** [9.15% ...
-* **Variant B (Treatment):** 1,134 conversions → **11.34% conversion rate**
+* **Variant B (Treatment):** 1,134 conversions → **12.13% conversion rate**
 
   * **95% Confidence Interval:** [10.72% ...
 
